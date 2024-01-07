@@ -1,0 +1,21 @@
+# custom_style.mplstyle
+axes.facecolor: white
+axes.edgecolor: black
+figure.facecolor: white
+figure.edgecolor: black
+xtick.color: black
+ytick.color: black
+axes.labelcolor: black
+axes.titlecolor: black
+savefig.edgecolor: black
+savefig.facecolor: white
+figure.figsize: 3, 2
+boxplot.boxprops.color: black
+boxplot.capprops.color: black
+boxplot.flierprops.color: black
+boxplot.flierprops.markeredgecolor: black
+boxplot.whiskerprops.color: black
+lines.color: black
+grid.color: black
+patch.edgecolor: black
+text.color: black
